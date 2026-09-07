@@ -1,22 +1,12 @@
-<img width="1920" height="688" alt="banner" src="https://github.com/user-attachments/assets/3e347ad4-079d-4d47-8fa0-31cd0fa041b0" />
-
+<img width="1920" height="561" alt="banner" src="https://github.com/user-attachments/assets/177ab6da-2078-471a-a58b-7dbf288c4fb0" />
 
 ## Hi, I'm Abi!
->LARPing as a programmer (there's not much to see here for now....)  
+🤡LARPing as a programmer (there's not much to see here for now....)
+  
+🩷Check out my site (via one of a few domains):
+- https://abigailch.xyz
+- https://abigail.church
+- https://abi.lgbt
 
+Remember to touch grass sometimes, it's good for you \<3
 
-
-<!--
-**abigailchurch32/abigailchurch32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
