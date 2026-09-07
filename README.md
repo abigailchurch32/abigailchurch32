@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I'm Abi!
+>LARPing as a programmer (there's not much to see here for now....)  
+
+
 
 <!--
 **abigailchurch32/abigailchurch32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
