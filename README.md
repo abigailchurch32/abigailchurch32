@@ -1,3 +1,6 @@
+<img width="1920" height="688" alt="banner" src="https://github.com/user-attachments/assets/3e347ad4-079d-4d47-8fa0-31cd0fa041b0" />
+
+
 ## Hi, I'm Abi!
 >LARPing as a programmer (there's not much to see here for now....)  
 
