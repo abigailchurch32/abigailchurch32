@@ -1,4 +1,4 @@
-<img width="1920" height="561" alt="banner" src="https://github.com/user-attachments/assets/177ab6da-2078-471a-a58b-7dbf288c4fb0" />
+<img width="1920" height="561" alt="banner" src="banner.png" />
 
 ## Hi, I'm Abi!
 🤡LARPing as a programmer (there's not much to see here for now....)
